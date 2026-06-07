@@ -4,10 +4,7 @@
 
 | Member | Role | Contribution |
 |---|---|---|
-| Soham Das | Full-Stack Developer |  Next.js frontend, Backend API routes, 
-MongoDB database layer, Role-based dashboards, Cloudinary integration, 
-NextAuth authentication, OpenAI GPT-4o LLM integration, 
-NLP-to-LLM orchestration pipeline |
+| Soham Das | Full-Stack Developer |  Next.js frontend, Backend API routes, MongoDB database layer, Role-based dashboards, Cloudinary integration, NextAuth authentication, OpenAI GPT-4o LLM integration, NLP-to-LLM orchestration pipeline |
 | Rishabh Chakraborty | AI/NLP Engineer | Python FastAPI NLP service, PDF text extraction, AI Insight Engine |
 | Spandan Polley | Frontend Developer | Landing page, Doctor dashboard components |
 ---
