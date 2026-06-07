@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+pydantic
+pytesseract
+pdf2image
+opencv-python
+numpy
+python-dotenv
+motor
